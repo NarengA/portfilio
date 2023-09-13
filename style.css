@@ -96,7 +96,7 @@ ul li a:hover{
     bottom: 0;
     transition: left 2s ease;
 }
-.image:hover .girl{
+.image:hover .moon{
     left: 55%;
 
 }
